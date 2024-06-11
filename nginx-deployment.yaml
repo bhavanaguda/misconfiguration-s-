@@ -2,7 +2,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: nginx_bhavana
+  name: nginx-bhavana
 spec:
   replicas: 2
   selector:
